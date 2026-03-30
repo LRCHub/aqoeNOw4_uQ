@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "名前は片想い",
   "base_artist": "indigo la End",
-  "createdAt": "2025-12-18T14:22:33.829433Z",
+  "createdAt": "2026-03-30T07:57:20.417548Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,24 @@
       "artist": "indigo la End",
       "has_synced": false,
       "path": "select/pl_01_名前は片想い_indigo_la_End.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "名前は片想い",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/localdb_01_名前は片想い_indigo_la_End.lrc",
+      "repo_name": "iWNI2Y_Sq3o"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "名前は片想い",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/localdb_02_名前は片想い_indigo_la_End.txt",
+      "repo_name": "aqoeNOw4_uQ"
     }
   ]
 }
